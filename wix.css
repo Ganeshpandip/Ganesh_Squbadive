@@ -1,0 +1,105 @@
+body{
+    height: 100vh;
+    background-image: url("https://images.pexels.com/photos/12890017/pexels-photo-12890017.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+   
+  }
+  .nav-link{
+    color: aliceblue;
+    text-align: center;
+  }
+  .active, .nav-link:hover{
+    color: #FFDC21 !important;
+  }
+
+  .text-warning{
+    color: #FFDC21 !important;
+  }
+
+.sec1{
+    height: 90vh;
+}
+.sec2{
+    height: 40vh;
+}
+.sec3{
+    height: 70vh;
+    background-image: url("https://images.pexels.com/photos/753267/pexels-photo-753267.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+
+}
+.sec4{
+    height: fit-content;
+    background-color: #152040;
+}
+.card1{
+    height: 75vh;
+    background-image: url("https://images.pexels.com/photos/15763644/pexels-photo-15763644/free-photo-of-scuba-divers-in-masks-snorkeling-underwater.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card2{
+  height: 75vh;
+  background-image: url("https://images.pexels.com/photos/3098936/pexels-photo-3098936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card3{
+  height: 75vh;
+  background-image: url("https://images.pexels.com/photos/3046582/pexels-photo-3046582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  .sec5{
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/3805132/pexels-photo-3805132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-attachment: fixed;
+}
+.sec6{
+  background-color: #152040 !important;
+}
+.sec7{
+  background-color: #152040 !important;
+
+}
+.sec8{
+  
+  background-repeat: no-repeat;
+
+}
+.sec9{
+
+  background-repeat: no-repeat;
+
+}
+.sec10{
+  height: fit-content;
+}
+
+.btn-submit{
+  background-color: #152040 !important;
+
+}
+.btn-submit:hover{
+  background-color: white !important;
+  color: black !important;
+  border: 1px black solid !important;
+}
+.sec11{
+  background-color: #152040 !important;
+  height: fit-content;
+}
+.border-hover:hover{
+  border: 1px solid white !important;
+
+}
+.sec12{
+  background-color: #152040 !important;
+  height: fit-content;
+}
